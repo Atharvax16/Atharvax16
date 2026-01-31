@@ -65,10 +65,10 @@
 > Replace these with your best repos (pin them too!)
 
 - **Project 1 — Cyberattack-Detection-using-CPU-Usage-Logs-Alert-System**  
-  Detects Anomalies in the CPU Logs • Tech: X, Y, Z • Link: [https://github.com/Atharvax16/REPO_NAME](https://github.com/Atharvax16/Cyberattack-Detection-using-CPU-Usage-Logs-Alert-System)
+  Detects Anomalies in the CPU Logs • Link: [https://github.com/Atharvax16/REPO_NAME](https://github.com/Atharvax16/Cyberattack-Detection-using-CPU-Usage-Logs-Alert-System)
 
 - **Project 2 — Comparative-Study-for-Diabetic-Retinopathy-Detection-and-Interpretability-methods**  
-  What it does in 1 line • Tech: X, Y, Z • Link: [https://github.com/Atharvax16/REPO_NAME](https://github.com/Atharvax16/Comparative-Study-for-Diabetic-Retinopathy-Detection-and-Interpretability-methods)
+  This is our research which we are currently doing! • Link: [https://github.com/Atharvax16/REPO_NAME](https://github.com/Atharvax16/Comparative-Study-for-Diabetic-Retinopathy-Detection-and-Interpretability-methods)
 
 ---
 
@@ -90,6 +90,6 @@
 ---
 
 ## 🤝 Let’s connect
-- LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/atharva-kocharekar-3512b4224/)
+- LinkedIn: [Connect Here](https://www.linkedin.com/in/atharva-kocharekar-3512b4224/)
 - Email: atharvakocahrekar0@gmail.com
 

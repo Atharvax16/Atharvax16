@@ -62,7 +62,6 @@
 ---
 
 ## 🌟 Featured Projects
-> Replace these with your best repos (pin them too!)
 
 - **Project 1 — Cyberattack-Detection-using-CPU-Usage-Logs-Alert-System**  
   Detects Anomalies in the CPU Logs • Link: [https://github.com/Atharvax16/REPO_NAME](https://github.com/Atharvax16/Cyberattack-Detection-using-CPU-Usage-Logs-Alert-System)

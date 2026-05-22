@@ -90,5 +90,5 @@
 
 ## 🤝 Let’s connect
 - LinkedIn: [Connect Here](https://www.linkedin.com/in/atharva-kocharekar-3512b4224/)
-- Email: atharvakocahrekar0@gmail.com
+- Email: atharvakocharekar0@gmail.com
 
